@@ -1,0 +1,3 @@
+Today I learned Python.
+Python is easy to learn.
+I practiced file handling.
