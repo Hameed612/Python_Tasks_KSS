@@ -1,0 +1,4 @@
+INFO Login successful
+ERROR File not found
+INFO User logged out
+ERROR Connection failed

@@ -1,0 +1,9 @@
+EXAM REPORT
+----------------
+Rahul 100 A
+Anita 42 Fail
+Ravi 57 C
+Priya 78 B
+John 100 A
+
+Average Marks: 75

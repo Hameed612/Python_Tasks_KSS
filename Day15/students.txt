@@ -1,0 +1,6 @@
+Student Results
+Ramu : 80
+Annu : 45
+Hemanth : 70
+Hameed : 90
+Average Marks: 71
